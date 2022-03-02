@@ -1,0 +1,76 @@
+head, body, external
+
+eg robot er sensor is js
+
+
+document.write("hello world") -- to print in js
+
+"document" is a class
+"." is object sign
+"write()" is method
+
+for any language:
+1. syntax
+2. variable
+3. operator
+4. array
+5. function
+6. oop (unsure)
+
+
+--------------------------Major Rules for Variables----------------------------
+         1. starts with var 
+         2. A-Z, a-z, $
+         3. No number comes first
+
+--------------------------Major Rules for Variables----------------------------
+
+"type of" gives the type of variables.
+
++ --> only add
++= --> concat kore
+
+for-in loop
+
+
+
+
+
+
+
+
+--------------------FUNCTION----------------------
+-- block of code
+-- used for specific tasks
+-- cannot work alone
+-- have to be called
+-- is reuseable
+
+
+has 2 parts-
+1. defination
+2. call
+
+function html e likhbona.
+we'll use an external file .js
+html tag er majhe insert korar jonne inner html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
